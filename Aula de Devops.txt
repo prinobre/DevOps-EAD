@@ -1,3 +1,3 @@
 Trabalhando com o Git.
 
-Teste com o conhecimento adquirido na aula, outra alteração.
+Agora vou alterar novamente, para ter certeza que aprendi.
